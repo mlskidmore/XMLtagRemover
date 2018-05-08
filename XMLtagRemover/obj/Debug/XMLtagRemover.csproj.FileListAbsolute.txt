@@ -1,0 +1,14 @@
+C:\ADPE\Main\Build\XMLtagRemover\XMLtagRemover\obj\Debug\XMLtagRemover.csprojResolveAssemblyReference.cache
+C:\ADPE\Main\Build\XMLtagRemover\XMLtagRemover\obj\Debug\XMLtagRemover.csproj.CoreCompileInputs.cache
+C:\ADPE\Main\Build\XMLtagRemover\XMLtagRemover\bin\Debug\XMLtagRemover.exe.config
+C:\ADPE\Main\Build\XMLtagRemover\XMLtagRemover\bin\Debug\XMLtagRemover.exe
+C:\ADPE\Main\Build\XMLtagRemover\XMLtagRemover\bin\Debug\XMLtagRemover.pdb
+C:\ADPE\Main\Build\XMLtagRemover\XMLtagRemover\obj\Debug\XMLtagRemover.exe
+C:\ADPE\Main\Build\XMLtagRemover\XMLtagRemover\obj\Debug\XMLtagRemover.pdb
+C:\Users\mark\source\repos\XMLtagRemover\XMLtagRemover\XMLtagRemover\bin\Debug\XMLtagRemover.exe.config
+C:\Users\mark\source\repos\XMLtagRemover\XMLtagRemover\XMLtagRemover\bin\Debug\XMLtagRemover.exe
+C:\Users\mark\source\repos\XMLtagRemover\XMLtagRemover\XMLtagRemover\bin\Debug\XMLtagRemover.pdb
+C:\Users\mark\source\repos\XMLtagRemover\XMLtagRemover\XMLtagRemover\obj\Debug\XMLtagRemover.csprojResolveAssemblyReference.cache
+C:\Users\mark\source\repos\XMLtagRemover\XMLtagRemover\XMLtagRemover\obj\Debug\XMLtagRemover.csproj.CoreCompileInputs.cache
+C:\Users\mark\source\repos\XMLtagRemover\XMLtagRemover\XMLtagRemover\obj\Debug\XMLtagRemover.exe
+C:\Users\mark\source\repos\XMLtagRemover\XMLtagRemover\XMLtagRemover\obj\Debug\XMLtagRemover.pdb
