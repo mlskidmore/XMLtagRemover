@@ -5,7 +5,7 @@ using System.Linq;
 
 namespace XMLtagRemover
 {
-    class XMLtagRemover
+    public class XMLtagRemover
     {
         private string cmdLineArgs;
         private List<string> htmFiles;
@@ -18,7 +18,7 @@ namespace XMLtagRemover
             htmFiles = HTMfiles;
             htmlFiles = HTMLfiles;
         }
-        private List<string> HTMLfiles
+        public List<string> HTMLfiles
         {
             get
             {
@@ -27,7 +27,7 @@ namespace XMLtagRemover
                 return HTMLfiles;
             }
         }
-        private List<string> HTMfiles
+        public List<string> HTMfiles
         {
             get
             {
